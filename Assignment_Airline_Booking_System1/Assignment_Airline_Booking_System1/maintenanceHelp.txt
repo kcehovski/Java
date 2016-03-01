@@ -1,0 +1,18 @@
+Steps:
+
+1. If you want to add new Airport click on "Add" radio button and 
+add required data.
+
+2. If you want to delete existing Airport click on "Delete" radio button and
+choose Airport you want to delete.
+
+3. You can choose "View Booking files" if you want to see file with already 
+booked flights.
+
+4. Click "Exit" if you want to return to the main menu.
+
+Cautions:
+
+1. Airport name and city can have only letters.
+
+2. You cannot add already existing Airport.

@@ -1,0 +1,6 @@
+Steps:
+
+1. If you want to book a flight choose "Book Flights".
+
+2. If you want to add or removed airports from the lists, 
+and to view booking files choose "Maintenance".

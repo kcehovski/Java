@@ -1,0 +1,6 @@
+Steps:
+
+1. Enter password if you want to access and maintain Airport list and
+to see booking files.
+
+2. Exit if you want to return to main menu.

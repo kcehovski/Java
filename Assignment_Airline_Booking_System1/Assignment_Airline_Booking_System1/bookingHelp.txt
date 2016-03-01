@@ -1,0 +1,21 @@
+Steps:
+
+1. If you wan one way flight click on "One destination" button,
+and if you want to book a second leg, onward from the first destination 
+or back to the original departure airport click on "Two destinations" button.
+
+2. You can choose desired flight and date. 
+
+3. You can choose desired type of seat.
+
+4. Write your name and click on "OK" button to book flight.
+This screen will lead you to confirmation screen where you can check 
+your details and confirm if you want to proceed or exit if you changed 
+you mind.
+
+5. Click on "Exit" button to return to main menu.
+
+Caution:
+
+Chosen date needs to be from tomorrow and other dates can be the same
+or they need to be in future respectively.
